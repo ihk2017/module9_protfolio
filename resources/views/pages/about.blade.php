@@ -1,7 +1,7 @@
 @extends('welcome')
 
 @section('contain')
-<div class="container-fluid text-center"><h1>About ME</h1></div>
+<div class="container-fluid text-center"><h1>About Me</h1></div>
 <hr>
 <div class="containter">
 
@@ -143,8 +143,5 @@
             </div>
         </div>
     </div>
-
-
-    
 </div>
 @endsection

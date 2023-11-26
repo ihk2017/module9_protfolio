@@ -1,4 +1,4 @@
-<div class="container-fluid footerarea">
+<div class="container-fluid bg-secondary">
     <div class="row">
         <div class="col-4 footerright socialmedias">
            
@@ -17,10 +17,10 @@
         <div class="col-4 footerright ">
             
             <ul class="">
-                <li><a href="/contact">Contact</a></li>
-                <li><a href="/project">Project</a></li>
-                <li><a href="/about">About Me</a></li>
                 <li><a class="active" href="/home">Home</a></li>
+                <li><a href="/about">About Me</a></li>
+                <li><a href="/project">Project</a></li>
+                <li><a href="/contact">Contact</a></li>
               </ul>
         </div>
     </div>

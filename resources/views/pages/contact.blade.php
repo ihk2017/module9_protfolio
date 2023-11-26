@@ -8,7 +8,7 @@
             <div class="col-8 bg-primary mt-2 mb-5">
                 <img src="{{ asset('assets/images/location.png') }}" alt="Girl in a jacket" width="100%" height="500" class="mt-3 mb-3">
             </div>
-            <div class="col-4 mt-5">
+            <div class="col-4 mt-5 bg-">
                 <h4>Send me Message from here !</h4>
                 <form action="">
                     <label for="name">Name</label>
